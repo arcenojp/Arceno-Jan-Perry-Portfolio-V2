@@ -160,7 +160,7 @@ const Projects = () => {
     {
       title: 'NPB: Non-player Broker',
       desc: 'An escrow-system built to solve online scams. Concept developed on MIT App Inventor and Figma.',
-      image: '/Project-NPB.png',
+      image: '/project-NPB.png',
       github: null,
       live: null
     },
