@@ -238,9 +238,9 @@ const Footer = () => (
         <div className="footer-col">
           <h3>Connect</h3>
           <div className="social-icons-footer">
-            <a href="https://github.com/arcenojp" target="_blank" aria-label="GitHub"><i className="fab fa-github"></i></a>
-            <a href="https://www.facebook.com/apss.arcen" target="_blank" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
-            <a href="mailto:arceno.janperry@gmail.com" aria-label="Email"><i className="fas fa-paper-plane"></i></a>
+            <a href="https://github.com/arcenojp" target="_blank" rel="noreferrer" aria-label="GitHub"><i className="fab fa-github"></i></a>
+            <a href="https://www.facebook.com/apss.arcen" target="_blank" rel="noreferrer" aria-label="Facebook"><i className="fab fa-facebook-f"></i></a>
+            <a href="mailto:arceno.janperry@gmail.com" target="_blank" rel="noreferrer" aria-label="Email"><i className="fas fa-paper-plane"></i></a>
           </div>
           <div className="contact-item" style={{ marginTop: '1rem' }}>
             <i className="fas fa-map-marker-alt"></i>
