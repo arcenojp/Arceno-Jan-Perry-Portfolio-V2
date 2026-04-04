@@ -19,7 +19,7 @@ const Home = () => (
   <section id="home" className="home container">
     <div className="home-content">
       <h1>Hi, I'm<br /> <span className="highlight">Jan Perry H. Arceño</span></h1>
-      <h2>BSIT Student at</h2><h2> Western Institute of Technology</h2>
+      <h2>BSIT Student at Western Institute of Technology</h2>
       <p>
         I'm currently a 2nd year IT student passionate about understanding
         how technology works and what it can do.
@@ -27,7 +27,7 @@ const Home = () => (
       </p>
     </div>
     <div className="home-image">
-      <img src="/profile-pic.jpg" alt="Jan Perry Arceño Image" />
+      <img src="/profile-pic.jpg" alt="Jan Perry Arceño" />
     </div>
   </section>
 );
